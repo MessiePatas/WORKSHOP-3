@@ -31,7 +31,7 @@ Get: trae todos los comandos que están instalados en el dispositivo
 Parte 2
 
 a.Un administrador de red digitael comando de red mostrado en la Figura 1. ¿Qué significa la dirección de red que se encuentra entre los corchetes?
-
+https://github.com/MessiePatas/WORKSHOP-3/blob/main/IMAGENES%20WORKSHOP%203/A.png
 	Lo que se encuentra entre corchetes es una dirección ip de la red local la cual es la dirección ip privada de nuestro router.
 	
 b.Un administrador de red digita el comando de red mostrado en la Figura 2. ¿Qué quiere decir Tiempo de espera agotado para esta solicitud?
