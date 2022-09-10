@@ -9,7 +9,7 @@ Parte 1
 Ipconfig: Es un comando de Windows el cual es muy útil para obtener información rápida de los ajustes principales de la red TCP/IP en el cual cubre los adaptadores e interfaces de red existentes.
 
 Ping: Esta comprueba la conectividad a otro equipo TCP/IP esto lo hace mediante el protocolo de mensajes de control de internet, su principal función es la de solucionar problemas de conectividad, facilidad de acceso y resolución de nombres
-
+https://github.com/MessiePatas/WORKSHOP-3/blob/main/IMAGENES%20WORKSHOP%203/A.png?raw=true
 Tracert: El comando tracert o también conocido como Traceroute es usado para gravar un ruta de intenet entre tu PC y una destinación especifica de computador 
 
 Netstat: Muestra el estado de la red y las estadísticas del protocolo.
@@ -31,7 +31,7 @@ Get: trae todos los comandos que están instalados en el dispositivo
 Parte 2
 
 a.Un administrador de red digitael comando de red mostrado en la Figura 1. ¿Qué significa la dirección de red que se encuentra entre los corchetes?
-![](https://github.com/MessiePatas/WORKSHOP-3/blob/main/IMAGENES%20WORKSHOP%203/A.png)
+![](https://github.com/MessiePatas/WORKSHOP-3/blob/main/IMAGENES%20WORKSHOP%203/A.png?raw=true)
 	Lo que se encuentra entre corchetes es una dirección ip de la red local la cual es la dirección ip privada de nuestro router.
 	
 b.Un administrador de red digita el comando de red mostrado en la Figura 2. ¿Qué quiere decir Tiempo de espera agotado para esta solicitud?
